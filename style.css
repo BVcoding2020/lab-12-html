@@ -21,10 +21,14 @@ h1 {
     border-color: red;
 }
 
+
 #intro {
 	border-width: 1px;
 	border-style: solid;
 	border-color: black;
 }
 
-
+.spotlight{
+	background-color: #FEFE22;
+}
+	
